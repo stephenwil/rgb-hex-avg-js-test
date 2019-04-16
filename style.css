@@ -1,0 +1,24 @@
+h1, h2 {
+  font-family: Lato;
+}
+
+.heading {
+  font-size: 2rem;
+}
+
+.inputHex {
+  margin-left: 1rem;
+}
+
+.cta {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
+
+.visible {
+  display: block;
+}
